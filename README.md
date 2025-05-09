@@ -1,0 +1,1 @@
+To run the game, download the main game holder from the link"https://drive.google.com/file/d/1pG5S7ztj__mA6YtLDVQ-UFf7LAoEQJ-R/view?fbclid=IwZXh0bgNhZW0CMTEAAR4ZpQVfM3M_07jtaIz9FfOiOF8K6KvbKEiDb86xBC6p8Lj9O4Iz4GCnjqur6w_aem_lUzgzyhvTf7eA_xeiIBnuQ", unxzip the file, then run the BookBlitz application.
